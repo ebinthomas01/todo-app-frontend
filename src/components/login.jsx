@@ -6,8 +6,8 @@ const login = () => {
         <div className="container1-fluid">
             <h2>Todo App</h2>
                 
-            <img  class="img-fluid"
-          src="https://clevertap.com/wp-content/uploads/2019/07/FTUE-blog-header1.png"  width="100%"/>
+            <img  class="img"
+          src="https://cdn.prod.website-files.com/60d5fccd073e736650e22809/662acde422a29dec9106c7f8_639b2e8c421020ae7d453c29_pexels-miguel-a%25CC%2581-padrin%25CC%2583a%25CC%2581n-1111369_%25281%2529.jpeg"/>
           
        <div className="container1">
             <div className="row g-3">
