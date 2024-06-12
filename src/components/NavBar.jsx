@@ -3,9 +3,9 @@ import React from 'react'
 const NavBar = () => {
   return (
     <div>
-        <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+        <nav class="navbar navbar-expand-lg bg-warning navbar-dark">
   <div class="container-fluid">
-    <a class="navbar-brand " href="/"> CREATE NEW ACCOUNT</a>
+    <h2> CREATE NEW ACCOUNT</h2>
     
   </div>
 </nav>
